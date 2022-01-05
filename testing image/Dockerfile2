@@ -1,2 +1,0 @@
-FROM Ubuntu 
-RUN "hello from ubuntu"  
